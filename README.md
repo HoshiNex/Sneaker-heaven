@@ -1,4 +1,4 @@
-# Sneaker Heaven
+# Sneaker Heaven - Sneaker-Store-Website
 
 ## Overview
 **Sneaker Heaven** is a modern, responsive website designed for sneaker enthusiasts to explore and purchase the latest collections. The website uses HTML, CSS, Bootstrap, and JavaScript to deliver a stylish and interactive shopping experience.
